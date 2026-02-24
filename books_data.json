@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a065",
+        "name": "Secrets of Design Vol. 2",
+        "description": "A comprehensive book about secrets of design vol. 2 specifically written for finance enthusiasts.",
+        "price": 393000,
+        "category": "Finance",
+        "stock": 49,
+        "created_at": "2024-01-25T06:00:00Z",
+        "updated_at": "2024-02-01T06:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a066",
+        "name": "Understanding Python Vol. 5",
+        "description": "A comprehensive book about understanding python vol. 5 specifically written for technology enthusiasts.",
+        "price": 377000,
+        "category": "Technology",
+        "stock": 85,
+        "created_at": "2024-01-24T18:00:00Z",
+        "updated_at": "2024-01-26T18:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a067",
+        "name": "Understanding Health Vol. 1",
+        "description": "A comprehensive book about understanding health vol. 1 specifically written for fiction enthusiasts.",
+        "price": 128000,
+        "category": "Fiction",
+        "stock": 141,
+        "created_at": "2024-01-01T11:00:00Z",
+        "updated_at": "2024-01-03T11:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a068",
+        "name": "Introduction to Universe Vol. 1",
+        "description": "A comprehensive book about introduction to universe vol. 1 specifically written for history enthusiasts.",
+        "price": 332000,
+        "category": "History",
+        "stock": 74,
+        "created_at": "2024-01-23T04:00:00Z",
+        "updated_at": "2024-01-26T04:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a069",
+        "name": "History of Ancient Rome Vol. 1",
+        "description": "A comprehensive book about history of ancient rome vol. 1 specifically written for self-help enthusiasts.",
+        "price": 270000,
+        "category": "Self-Help",
+        "stock": 144,
+        "created_at": "2024-01-25T07:00:00Z",
+        "updated_at": "2024-02-02T07:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a06a",
+        "name": "Guide to Health Vol. 3",
+        "description": "A comprehensive book about guide to health vol. 3 specifically written for sci-fi enthusiasts.",
+        "price": 228000,
+        "category": "Sci-Fi",
+        "stock": 118,
+        "created_at": "2024-01-26T17:00:00Z",
+        "updated_at": "2024-02-02T17:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a06b",
+        "name": "Guide to Design Vol. 4",
+        "description": "A comprehensive book about guide to design vol. 4 specifically written for biography enthusiasts.",
+        "price": 165000,
+        "category": "Biography",
+        "stock": 5,
+        "created_at": "2024-01-28T22:00:00Z",
+        "updated_at": "2024-01-30T22:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a06c",
+        "name": "Introduction to Success Vol. 2",
+        "description": "A comprehensive book about introduction to success vol. 2 specifically written for history enthusiasts.",
+        "price": 351000,
+        "category": "History",
+        "stock": 70,
+        "created_at": "2024-01-09T16:00:00Z",
+        "updated_at": "2024-01-13T16:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a06d",
+        "name": "The World of Cooking Vol. 4",
+        "description": "A comprehensive book about the world of cooking vol. 4 specifically written for history enthusiasts.",
+        "price": 300000,
+        "category": "History",
+        "stock": 20,
+        "created_at": "2024-01-16T05:00:00Z",
+        "updated_at": "2024-01-24T05:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a06e",
+        "name": "The Art of Python Vol. 5",
+        "description": "A comprehensive book about the art of python vol. 5 specifically written for technology enthusiasts.",
+        "price": 310000,
+        "category": "Technology",
+        "stock": 112,
+        "created_at": "2024-01-27T03:00:00Z",
+        "updated_at": "2024-01-29T03:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a06f",
+        "name": "Introduction to Cooking Vol. 5",
+        "description": "A comprehensive book about introduction to cooking vol. 5 specifically written for history enthusiasts.",
+        "price": 271000,
+        "category": "History",
+        "stock": 130,
+        "created_at": "2024-01-16T01:00:00Z",
+        "updated_at": "2024-01-26T01:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a070",
+        "name": "The World of Economics Vol. 2",
+        "description": "A comprehensive book about the world of economics vol. 2 specifically written for fiction enthusiasts.",
+        "price": 424000,
+        "category": "Fiction",
+        "stock": 5,
+        "created_at": "2024-01-29T15:00:00Z",
+        "updated_at": "2024-02-05T15:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a071",
+        "name": "Mastering Nature Vol. 5",
+        "description": "A comprehensive book about mastering nature vol. 5 specifically written for cooking enthusiasts.",
+        "price": 475000,
+        "category": "Cooking",
+        "stock": 16,
+        "created_at": "2024-01-06T14:00:00Z",
+        "updated_at": "2024-01-08T14:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a072",
+        "name": "History of Nature Vol. 5",
+        "description": "A comprehensive book about history of nature vol. 5 specifically written for sci-fi enthusiasts.",
+        "price": 349000,
+        "category": "Sci-Fi",
+        "stock": 15,
+        "created_at": "2024-01-06T06:00:00Z",
+        "updated_at": "2024-01-12T06:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a073",
+        "name": "Mastering Health Vol. 3",
+        "description": "A comprehensive book about mastering health vol. 3 specifically written for biography enthusiasts.",
+        "price": 454000,
+        "category": "Biography",
+        "stock": 99,
+        "created_at": "2024-01-22T15:00:00Z",
+        "updated_at": "2024-01-25T15:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a074",
+        "name": "Journey to Ancient Rome Vol. 4",
+        "description": "A comprehensive book about journey to ancient rome vol. 4 specifically written for cooking enthusiasts.",
+        "price": 457000,
+        "category": "Cooking",
+        "stock": 56,
+        "created_at": "2024-01-31T19:00:00Z",
+        "updated_at": "2024-02-04T19:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a075",
+        "name": "Understanding Health Vol. 5",
+        "description": "A comprehensive book about understanding health vol. 5 specifically written for history enthusiasts.",
+        "price": 318000,
+        "category": "History",
+        "stock": 147,
+        "created_at": "2024-01-24T22:00:00Z",
+        "updated_at": "2024-01-25T22:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a076",
+        "name": "Mastering Universe Vol. 1",
+        "description": "A comprehensive book about mastering universe vol. 1 specifically written for finance enthusiasts.",
+        "price": 343000,
+        "category": "Finance",
+        "stock": 112,
+        "created_at": "2024-01-25T06:00:00Z",
+        "updated_at": "2024-01-30T06:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a077",
+        "name": "Introduction to Economics Vol. 4",
+        "description": "A comprehensive book about introduction to economics vol. 4 specifically written for finance enthusiasts.",
+        "price": 420000,
+        "category": "Finance",
+        "stock": 84,
+        "created_at": "2024-01-11T00:00:00Z",
+        "updated_at": "2024-01-15T00:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a078",
+        "name": "The World of Design Vol. 5",
+        "description": "A comprehensive book about the world of design vol. 5 specifically written for fiction enthusiasts.",
+        "price": 342000,
+        "category": "Fiction",
+        "stock": 110,
+        "created_at": "2024-01-09T01:00:00Z",
+        "updated_at": "2024-01-15T01:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a079",
+        "name": "Journey to Python Vol. 5",
+        "description": "A comprehensive book about journey to python vol. 5 specifically written for cooking enthusiasts.",
+        "price": 368000,
+        "category": "Cooking",
+        "stock": 117,
+        "created_at": "2024-01-30T01:00:00Z",
+        "updated_at": "2024-02-03T01:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a07a",
+        "name": "Secrets of Success Vol. 4",
+        "description": "A comprehensive book about secrets of success vol. 4 specifically written for sci-fi enthusiasts.",
+        "price": 348000,
+        "category": "Sci-Fi",
+        "stock": 10,
+        "created_at": "2024-01-20T13:00:00Z",
+        "updated_at": "2024-01-23T13:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a07b",
+        "name": "History of Success Vol. 3",
+        "description": "A comprehensive book about history of success vol. 3 specifically written for technology enthusiasts.",
+        "price": 406000,
+        "category": "Technology",
+        "stock": 138,
+        "created_at": "2024-01-13T19:00:00Z",
+        "updated_at": "2024-01-18T19:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a07c",
+        "name": "Understanding Cooking Vol. 1",
+        "description": "A comprehensive book about understanding cooking vol. 1 specifically written for biography enthusiasts.",
+        "price": 296000,
+        "category": "Biography",
+        "stock": 149,
+        "created_at": "2024-01-17T04:00:00Z",
+        "updated_at": "2024-01-22T04:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a07d",
+        "name": "History of Success Vol. 2",
+        "description": "A comprehensive book about history of success vol. 2 specifically written for finance enthusiasts.",
+        "price": 291000,
+        "category": "Finance",
+        "stock": 45,
+        "created_at": "2024-01-14T14:00:00Z",
+        "updated_at": "2024-01-22T14:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a07e",
+        "name": "Understanding Economics Vol. 5",
+        "description": "A comprehensive book about understanding economics vol. 5 specifically written for fiction enthusiasts.",
+        "price": 418000,
+        "category": "Fiction",
+        "stock": 126,
+        "created_at": "2024-01-11T03:00:00Z",
+        "updated_at": "2024-01-11T03:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a07f",
+        "name": "The World of JavaScript Vol. 4",
+        "description": "A comprehensive book about the world of javascript vol. 4 specifically written for biography enthusiasts.",
+        "price": 64000,
+        "category": "Biography",
+        "stock": 94,
+        "created_at": "2024-01-04T07:00:00Z",
+        "updated_at": "2024-01-11T07:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a080",
+        "name": "Advanced Ancient Rome Vol. 5",
+        "description": "A comprehensive book about advanced ancient rome vol. 5 specifically written for sci-fi enthusiasts.",
+        "price": 310000,
+        "category": "Sci-Fi",
+        "stock": 102,
+        "created_at": "2024-01-11T21:00:00Z",
+        "updated_at": "2024-01-16T21:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a081",
+        "name": "The Art of Economics Vol. 3",
+        "description": "A comprehensive book about the art of economics vol. 3 specifically written for technology enthusiasts.",
+        "price": 82000,
+        "category": "Technology",
+        "stock": 14,
+        "created_at": "2024-01-25T21:00:00Z",
+        "updated_at": "2024-02-04T21:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a082",
+        "name": "Mastering Health Vol. 2",
+        "description": "A comprehensive book about mastering health vol. 2 specifically written for history enthusiasts.",
+        "price": 284000,
+        "category": "History",
+        "stock": 129,
+        "created_at": "2024-01-10T13:00:00Z",
+        "updated_at": "2024-01-11T13:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a083",
+        "name": "Advanced Nature Vol. 3",
+        "description": "A comprehensive book about advanced nature vol. 3 specifically written for biography enthusiasts.",
+        "price": 139000,
+        "category": "Biography",
+        "stock": 80,
+        "created_at": "2024-01-28T04:00:00Z",
+        "updated_at": "2024-02-07T04:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a084",
+        "name": "Journey to Success Vol. 5",
+        "description": "A comprehensive book about journey to success vol. 5 specifically written for sci-fi enthusiasts.",
+        "price": 495000,
+        "category": "Sci-Fi",
+        "stock": 52,
+        "created_at": "2024-01-16T13:00:00Z",
+        "updated_at": "2024-01-23T13:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a085",
+        "name": "Secrets of Health Vol. 2",
+        "description": "A comprehensive book about secrets of health vol. 2 specifically written for finance enthusiasts.",
+        "price": 73000,
+        "category": "Finance",
+        "stock": 129,
+        "created_at": "2024-01-08T07:00:00Z",
+        "updated_at": "2024-01-08T07:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a086",
+        "name": "The Art of Economics Vol. 4",
+        "description": "A comprehensive book about the art of economics vol. 4 specifically written for biography enthusiasts.",
+        "price": 275000,
+        "category": "Biography",
+        "stock": 66,
+        "created_at": "2024-01-17T10:00:00Z",
+        "updated_at": "2024-01-18T10:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a087",
+        "name": "Guide to Python Vol. 1",
+        "description": "A comprehensive book about guide to python vol. 1 specifically written for history enthusiasts.",
+        "price": 405000,
+        "category": "History",
+        "stock": 67,
+        "created_at": "2024-01-13T09:00:00Z",
+        "updated_at": "2024-01-16T09:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a088",
+        "name": "Secrets of JavaScript Vol. 5",
+        "description": "A comprehensive book about secrets of javascript vol. 5 specifically written for self-help enthusiasts.",
+        "price": 189000,
+        "category": "Self-Help",
+        "stock": 92,
+        "created_at": "2024-01-18T13:00:00Z",
+        "updated_at": "2024-01-19T13:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a089",
+        "name": "Journey to JavaScript Vol. 3",
+        "description": "A comprehensive book about journey to javascript vol. 3 specifically written for finance enthusiasts.",
+        "price": 341000,
+        "category": "Finance",
+        "stock": 143,
+        "created_at": "2024-01-31T08:00:00Z",
+        "updated_at": "2024-02-02T08:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a08a",
+        "name": "Advanced Design Vol. 3",
+        "description": "A comprehensive book about advanced design vol. 3 specifically written for cooking enthusiasts.",
+        "price": 284000,
+        "category": "Cooking",
+        "stock": 144,
+        "created_at": "2024-01-25T00:00:00Z",
+        "updated_at": "2024-01-27T00:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a08b",
+        "name": "Introduction to Ancient Rome Vol. 3",
+        "description": "A comprehensive book about introduction to ancient rome vol. 3 specifically written for biography enthusiasts.",
+        "price": 328000,
+        "category": "Biography",
+        "stock": 132,
+        "created_at": "2024-01-15T21:00:00Z",
+        "updated_at": "2024-01-16T21:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a08c",
+        "name": "The World of Universe Vol. 2",
+        "description": "A comprehensive book about the world of universe vol. 2 specifically written for self-help enthusiasts.",
+        "price": 323000,
+        "category": "Self-Help",
+        "stock": 38,
+        "created_at": "2024-01-21T13:00:00Z",
+        "updated_at": "2024-01-24T13:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a08d",
+        "name": "Mastering Economics Vol. 1",
+        "description": "A comprehensive book about mastering economics vol. 1 specifically written for biography enthusiasts.",
+        "price": 104000,
+        "category": "Biography",
+        "stock": 86,
+        "created_at": "2024-01-07T22:00:00Z",
+        "updated_at": "2024-01-09T22:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a08e",
+        "name": "Advanced Health Vol. 3",
+        "description": "A comprehensive book about advanced health vol. 3 specifically written for biography enthusiasts.",
+        "price": 300000,
+        "category": "Biography",
+        "stock": 146,
+        "created_at": "2024-01-11T02:00:00Z",
+        "updated_at": "2024-01-12T02:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a08f",
+        "name": "The World of Success Vol. 4",
+        "description": "A comprehensive book about the world of success vol. 4 specifically written for fiction enthusiasts.",
+        "price": 415000,
+        "category": "Fiction",
+        "stock": 134,
+        "created_at": "2024-01-09T14:00:00Z",
+        "updated_at": "2024-01-19T14:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a090",
+        "name": "Understanding Health Vol. 3",
+        "description": "A comprehensive book about understanding health vol. 3 specifically written for finance enthusiasts.",
+        "price": 319000,
+        "category": "Finance",
+        "stock": 75,
+        "created_at": "2024-01-22T21:00:00Z",
+        "updated_at": "2024-01-26T21:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a091",
+        "name": "The World of Success Vol. 2",
+        "description": "A comprehensive book about the world of success vol. 2 specifically written for history enthusiasts.",
+        "price": 437000,
+        "category": "History",
+        "stock": 72,
+        "created_at": "2024-01-16T03:00:00Z",
+        "updated_at": "2024-01-16T03:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a092",
+        "name": "Guide to Cooking Vol. 4",
+        "description": "A comprehensive book about guide to cooking vol. 4 specifically written for biography enthusiasts.",
+        "price": 437000,
+        "category": "Biography",
+        "stock": 66,
+        "created_at": "2024-01-21T09:00:00Z",
+        "updated_at": "2024-01-22T09:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a093",
+        "name": "History of Universe Vol. 5",
+        "description": "A comprehensive book about history of universe vol. 5 specifically written for fiction enthusiasts.",
+        "price": 337000,
+        "category": "Fiction",
+        "stock": 69,
+        "created_at": "2024-01-05T15:00:00Z",
+        "updated_at": "2024-01-09T15:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a094",
+        "name": "Understanding JavaScript Vol. 2",
+        "description": "A comprehensive book about understanding javascript vol. 2 specifically written for sci-fi enthusiasts.",
+        "price": 78000,
+        "category": "Sci-Fi",
+        "stock": 35,
+        "created_at": "2024-01-04T18:00:00Z",
+        "updated_at": "2024-01-05T18:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a095",
+        "name": "Secrets of Universe Vol. 1",
+        "description": "A comprehensive book about secrets of universe vol. 1 specifically written for history enthusiasts.",
+        "price": 416000,
+        "category": "History",
+        "stock": 41,
+        "created_at": "2024-01-03T03:00:00Z",
+        "updated_at": "2024-01-04T03:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a096",
+        "name": "The World of Nature Vol. 4",
+        "description": "A comprehensive book about the world of nature vol. 4 specifically written for sci-fi enthusiasts.",
+        "price": 147000,
+        "category": "Sci-Fi",
+        "stock": 97,
+        "created_at": "2024-01-01T14:00:00Z",
+        "updated_at": "2024-01-08T14:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a097",
+        "name": "The World of Health Vol. 1",
+        "description": "A comprehensive book about the world of health vol. 1 specifically written for self-help enthusiasts.",
+        "price": 98000,
+        "category": "Self-Help",
+        "stock": 102,
+        "created_at": "2024-01-08T08:00:00Z",
+        "updated_at": "2024-01-18T08:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a098",
+        "name": "Guide to Ancient Rome Vol. 4",
+        "description": "A comprehensive book about guide to ancient rome vol. 4 specifically written for technology enthusiasts.",
+        "price": 114000,
+        "category": "Technology",
+        "stock": 147,
+        "created_at": "2024-01-02T08:00:00Z",
+        "updated_at": "2024-01-11T08:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a099",
+        "name": "Introduction to Economics Vol. 5",
+        "description": "A comprehensive book about introduction to economics vol. 5 specifically written for sci-fi enthusiasts.",
+        "price": 180000,
+        "category": "Sci-Fi",
+        "stock": 124,
+        "created_at": "2024-01-28T14:00:00Z",
+        "updated_at": "2024-02-06T14:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a09a",
+        "name": "Introduction to Nature Vol. 4",
+        "description": "A comprehensive book about introduction to nature vol. 4 specifically written for fiction enthusiasts.",
+        "price": 319000,
+        "category": "Fiction",
+        "stock": 30,
+        "created_at": "2024-01-26T14:00:00Z",
+        "updated_at": "2024-02-02T14:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a09b",
+        "name": "The World of Design Vol. 5",
+        "description": "A comprehensive book about the world of design vol. 5 specifically written for fiction enthusiasts.",
+        "price": 290000,
+        "category": "Fiction",
+        "stock": 6,
+        "created_at": "2024-01-16T21:00:00Z",
+        "updated_at": "2024-01-26T21:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a09c",
+        "name": "Understanding Economics Vol. 5",
+        "description": "A comprehensive book about understanding economics vol. 5 specifically written for history enthusiasts.",
+        "price": 254000,
+        "category": "History",
+        "stock": 26,
+        "created_at": "2024-01-19T09:00:00Z",
+        "updated_at": "2024-01-19T09:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a09d",
+        "name": "Introduction to Cooking Vol. 3",
+        "description": "A comprehensive book about introduction to cooking vol. 3 specifically written for fiction enthusiasts.",
+        "price": 172000,
+        "category": "Fiction",
+        "stock": 86,
+        "created_at": "2024-01-05T09:00:00Z",
+        "updated_at": "2024-01-15T09:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a09e",
+        "name": "Understanding Nature Vol. 1",
+        "description": "A comprehensive book about understanding nature vol. 1 specifically written for history enthusiasts.",
+        "price": 292000,
+        "category": "History",
+        "stock": 62,
+        "created_at": "2024-01-26T09:00:00Z",
+        "updated_at": "2024-01-26T09:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a09f",
+        "name": "The World of Design Vol. 2",
+        "description": "A comprehensive book about the world of design vol. 2 specifically written for sci-fi enthusiasts.",
+        "price": 470000,
+        "category": "Sci-Fi",
+        "stock": 91,
+        "created_at": "2024-01-22T08:00:00Z",
+        "updated_at": "2024-01-28T08:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0a0",
+        "name": "Mastering Universe Vol. 2",
+        "description": "A comprehensive book about mastering universe vol. 2 specifically written for self-help enthusiasts.",
+        "price": 52000,
+        "category": "Self-Help",
+        "stock": 63,
+        "created_at": "2024-01-17T08:00:00Z",
+        "updated_at": "2024-01-20T08:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0a1",
+        "name": "Secrets of Ancient Rome Vol. 3",
+        "description": "A comprehensive book about secrets of ancient rome vol. 3 specifically written for fiction enthusiasts.",
+        "price": 129000,
+        "category": "Fiction",
+        "stock": 42,
+        "created_at": "2024-01-15T11:00:00Z",
+        "updated_at": "2024-01-16T11:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0a2",
+        "name": "Guide to Success Vol. 3",
+        "description": "A comprehensive book about guide to success vol. 3 specifically written for sci-fi enthusiasts.",
+        "price": 390000,
+        "category": "Sci-Fi",
+        "stock": 28,
+        "created_at": "2024-01-14T10:00:00Z",
+        "updated_at": "2024-01-23T10:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0a3",
+        "name": "Understanding Python Vol. 3",
+        "description": "A comprehensive book about understanding python vol. 3 specifically written for finance enthusiasts.",
+        "price": 389000,
+        "category": "Finance",
+        "stock": 9,
+        "created_at": "2024-01-03T02:00:00Z",
+        "updated_at": "2024-01-09T02:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0a4",
+        "name": "The World of JavaScript Vol. 4",
+        "description": "A comprehensive book about the world of javascript vol. 4 specifically written for biography enthusiasts.",
+        "price": 320000,
+        "category": "Biography",
+        "stock": 116,
+        "created_at": "2024-01-04T20:00:00Z",
+        "updated_at": "2024-01-12T20:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0a5",
+        "name": "Secrets of Nature Vol. 2",
+        "description": "A comprehensive book about secrets of nature vol. 2 specifically written for self-help enthusiasts.",
+        "price": 478000,
+        "category": "Self-Help",
+        "stock": 137,
+        "created_at": "2024-01-22T13:00:00Z",
+        "updated_at": "2024-01-31T13:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0a6",
+        "name": "Understanding JavaScript Vol. 4",
+        "description": "A comprehensive book about understanding javascript vol. 4 specifically written for biography enthusiasts.",
+        "price": 295000,
+        "category": "Biography",
+        "stock": 50,
+        "created_at": "2024-01-30T03:00:00Z",
+        "updated_at": "2024-02-05T03:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0a7",
+        "name": "History of Design Vol. 5",
+        "description": "A comprehensive book about history of design vol. 5 specifically written for technology enthusiasts.",
+        "price": 464000,
+        "category": "Technology",
+        "stock": 137,
+        "created_at": "2024-01-28T12:00:00Z",
+        "updated_at": "2024-02-01T12:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0a8",
+        "name": "Understanding Economics Vol. 5",
+        "description": "A comprehensive book about understanding economics vol. 5 specifically written for technology enthusiasts.",
+        "price": 479000,
+        "category": "Technology",
+        "stock": 46,
+        "created_at": "2024-01-11T19:00:00Z",
+        "updated_at": "2024-01-19T19:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0a9",
+        "name": "The World of Python Vol. 2",
+        "description": "A comprehensive book about the world of python vol. 2 specifically written for history enthusiasts.",
+        "price": 211000,
+        "category": "History",
+        "stock": 85,
+        "created_at": "2024-01-14T19:00:00Z",
+        "updated_at": "2024-01-16T19:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0aa",
+        "name": "The Art of Universe Vol. 5",
+        "description": "A comprehensive book about the art of universe vol. 5 specifically written for sci-fi enthusiasts.",
+        "price": 359000,
+        "category": "Sci-Fi",
+        "stock": 47,
+        "created_at": "2024-01-04T23:00:00Z",
+        "updated_at": "2024-01-09T23:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0ab",
+        "name": "Journey to Universe Vol. 1",
+        "description": "A comprehensive book about journey to universe vol. 1 specifically written for finance enthusiasts.",
+        "price": 390000,
+        "category": "Finance",
+        "stock": 36,
+        "created_at": "2024-01-04T09:00:00Z",
+        "updated_at": "2024-01-10T09:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0ac",
+        "name": "The World of Success Vol. 2",
+        "description": "A comprehensive book about the world of success vol. 2 specifically written for history enthusiasts.",
+        "price": 104000,
+        "category": "History",
+        "stock": 40,
+        "created_at": "2024-01-26T10:00:00Z",
+        "updated_at": "2024-02-03T10:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0ad",
+        "name": "The Art of JavaScript Vol. 3",
+        "description": "A comprehensive book about the art of javascript vol. 3 specifically written for fiction enthusiasts.",
+        "price": 311000,
+        "category": "Fiction",
+        "stock": 84,
+        "created_at": "2024-01-18T08:00:00Z",
+        "updated_at": "2024-01-19T08:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0ae",
+        "name": "The World of Health Vol. 3",
+        "description": "A comprehensive book about the world of health vol. 3 specifically written for fiction enthusiasts.",
+        "price": 152000,
+        "category": "Fiction",
+        "stock": 66,
+        "created_at": "2024-01-27T01:00:00Z",
+        "updated_at": "2024-01-27T01:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0af",
+        "name": "History of Design Vol. 1",
+        "description": "A comprehensive book about history of design vol. 1 specifically written for self-help enthusiasts.",
+        "price": 303000,
+        "category": "Self-Help",
+        "stock": 29,
+        "created_at": "2024-01-27T19:00:00Z",
+        "updated_at": "2024-02-02T19:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0b0",
+        "name": "The World of Success Vol. 2",
+        "description": "A comprehensive book about the world of success vol. 2 specifically written for technology enthusiasts.",
+        "price": 237000,
+        "category": "Technology",
+        "stock": 22,
+        "created_at": "2024-01-26T13:00:00Z",
+        "updated_at": "2024-02-03T13:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0b1",
+        "name": "The World of Design Vol. 2",
+        "description": "A comprehensive book about the world of design vol. 2 specifically written for biography enthusiasts.",
+        "price": 198000,
+        "category": "Biography",
+        "stock": 115,
+        "created_at": "2024-01-11T23:00:00Z",
+        "updated_at": "2024-01-11T23:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0b2",
+        "name": "Mastering Ancient Rome Vol. 4",
+        "description": "A comprehensive book about mastering ancient rome vol. 4 specifically written for fiction enthusiasts.",
+        "price": 300000,
+        "category": "Fiction",
+        "stock": 63,
+        "created_at": "2024-01-26T07:00:00Z",
+        "updated_at": "2024-01-29T07:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0b3",
+        "name": "Secrets of Health Vol. 3",
+        "description": "A comprehensive book about secrets of health vol. 3 specifically written for cooking enthusiasts.",
+        "price": 104000,
+        "category": "Cooking",
+        "stock": 118,
+        "created_at": "2024-01-27T21:00:00Z",
+        "updated_at": "2024-01-30T21:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0b4",
+        "name": "Advanced Success Vol. 4",
+        "description": "A comprehensive book about advanced success vol. 4 specifically written for sci-fi enthusiasts.",
+        "price": 499000,
+        "category": "Sci-Fi",
+        "stock": 104,
+        "created_at": "2024-01-22T15:00:00Z",
+        "updated_at": "2024-01-30T15:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0b5",
+        "name": "Secrets of Nature Vol. 2",
+        "description": "A comprehensive book about secrets of nature vol. 2 specifically written for history enthusiasts.",
+        "price": 132000,
+        "category": "History",
+        "stock": 65,
+        "created_at": "2024-01-30T06:00:00Z",
+        "updated_at": "2024-02-02T06:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0b6",
+        "name": "The Art of Economics Vol. 1",
+        "description": "A comprehensive book about the art of economics vol. 1 specifically written for biography enthusiasts.",
+        "price": 234000,
+        "category": "Biography",
+        "stock": 104,
+        "created_at": "2024-01-29T04:00:00Z",
+        "updated_at": "2024-02-04T04:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0b7",
+        "name": "Secrets of Economics Vol. 3",
+        "description": "A comprehensive book about secrets of economics vol. 3 specifically written for biography enthusiasts.",
+        "price": 384000,
+        "category": "Biography",
+        "stock": 150,
+        "created_at": "2024-01-15T05:00:00Z",
+        "updated_at": "2024-01-24T05:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0b8",
+        "name": "Introduction to JavaScript Vol. 5",
+        "description": "A comprehensive book about introduction to javascript vol. 5 specifically written for sci-fi enthusiasts.",
+        "price": 76000,
+        "category": "Sci-Fi",
+        "stock": 13,
+        "created_at": "2024-01-28T23:00:00Z",
+        "updated_at": "2024-01-31T23:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0b9",
+        "name": "Journey to Ancient Rome Vol. 5",
+        "description": "A comprehensive book about journey to ancient rome vol. 5 specifically written for sci-fi enthusiasts.",
+        "price": 178000,
+        "category": "Sci-Fi",
+        "stock": 130,
+        "created_at": "2024-01-30T23:00:00Z",
+        "updated_at": "2024-01-30T23:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0ba",
+        "name": "History of Nature Vol. 4",
+        "description": "A comprehensive book about history of nature vol. 4 specifically written for biography enthusiasts.",
+        "price": 360000,
+        "category": "Biography",
+        "stock": 63,
+        "created_at": "2024-01-04T17:00:00Z",
+        "updated_at": "2024-01-05T17:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0bb",
+        "name": "History of Python Vol. 3",
+        "description": "A comprehensive book about history of python vol. 3 specifically written for sci-fi enthusiasts.",
+        "price": 429000,
+        "category": "Sci-Fi",
+        "stock": 38,
+        "created_at": "2024-01-12T12:00:00Z",
+        "updated_at": "2024-01-17T12:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0bc",
+        "name": "Secrets of Success Vol. 4",
+        "description": "A comprehensive book about secrets of success vol. 4 specifically written for history enthusiasts.",
+        "price": 315000,
+        "category": "History",
+        "stock": 8,
+        "created_at": "2024-01-14T17:00:00Z",
+        "updated_at": "2024-01-15T17:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0bd",
+        "name": "Advanced Cooking Vol. 1",
+        "description": "A comprehensive book about advanced cooking vol. 1 specifically written for sci-fi enthusiasts.",
+        "price": 183000,
+        "category": "Sci-Fi",
+        "stock": 105,
+        "created_at": "2024-01-29T10:00:00Z",
+        "updated_at": "2024-01-29T10:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0be",
+        "name": "Journey to Economics Vol. 4",
+        "description": "A comprehensive book about journey to economics vol. 4 specifically written for cooking enthusiasts.",
+        "price": 160000,
+        "category": "Cooking",
+        "stock": 147,
+        "created_at": "2024-01-04T20:00:00Z",
+        "updated_at": "2024-01-11T20:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0bf",
+        "name": "Advanced Cooking Vol. 5",
+        "description": "A comprehensive book about advanced cooking vol. 5 specifically written for finance enthusiasts.",
+        "price": 313000,
+        "category": "Finance",
+        "stock": 40,
+        "created_at": "2024-01-24T07:00:00Z",
+        "updated_at": "2024-01-27T07:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0c0",
+        "name": "Advanced JavaScript Vol. 4",
+        "description": "A comprehensive book about advanced javascript vol. 4 specifically written for self-help enthusiasts.",
+        "price": 277000,
+        "category": "Self-Help",
+        "stock": 24,
+        "created_at": "2024-01-02T22:00:00Z",
+        "updated_at": "2024-01-02T22:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0c1",
+        "name": "Introduction to Cooking Vol. 3",
+        "description": "A comprehensive book about introduction to cooking vol. 3 specifically written for cooking enthusiasts.",
+        "price": 197000,
+        "category": "Cooking",
+        "stock": 138,
+        "created_at": "2024-01-31T11:00:00Z",
+        "updated_at": "2024-02-08T11:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0c2",
+        "name": "Journey to Health Vol. 1",
+        "description": "A comprehensive book about journey to health vol. 1 specifically written for cooking enthusiasts.",
+        "price": 403000,
+        "category": "Cooking",
+        "stock": 126,
+        "created_at": "2024-01-21T15:00:00Z",
+        "updated_at": "2024-01-28T15:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0c3",
+        "name": "The Art of Nature Vol. 1",
+        "description": "A comprehensive book about the art of nature vol. 1 specifically written for sci-fi enthusiasts.",
+        "price": 121000,
+        "category": "Sci-Fi",
+        "stock": 122,
+        "created_at": "2024-01-21T10:00:00Z",
+        "updated_at": "2024-01-29T10:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0c4",
+        "name": "History of Nature Vol. 5",
+        "description": "A comprehensive book about history of nature vol. 5 specifically written for history enthusiasts.",
+        "price": 459000,
+        "category": "History",
+        "stock": 72,
+        "created_at": "2024-01-20T06:00:00Z",
+        "updated_at": "2024-01-24T06:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0c5",
+        "name": "Understanding JavaScript Vol. 2",
+        "description": "A comprehensive book about understanding javascript vol. 2 specifically written for history enthusiasts.",
+        "price": 245000,
+        "category": "History",
+        "stock": 16,
+        "created_at": "2024-01-21T20:00:00Z",
+        "updated_at": "2024-01-22T20:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0c6",
+        "name": "Guide to Success Vol. 2",
+        "description": "A comprehensive book about guide to success vol. 2 specifically written for fiction enthusiasts.",
+        "price": 465000,
+        "category": "Fiction",
+        "stock": 100,
+        "created_at": "2024-01-24T18:00:00Z",
+        "updated_at": "2024-02-01T18:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0c7",
+        "name": "Understanding Universe Vol. 4",
+        "description": "A comprehensive book about understanding universe vol. 4 specifically written for sci-fi enthusiasts.",
+        "price": 221000,
+        "category": "Sci-Fi",
+        "stock": 74,
+        "created_at": "2024-01-05T09:00:00Z",
+        "updated_at": "2024-01-11T09:00:00Z"
+    },
+    {
+        "id": "65d1f1a2e4b0a1a1a1a1a0c8",
+        "name": "Advanced Health Vol. 2",
+        "description": "A comprehensive book about advanced health vol. 2 specifically written for finance enthusiasts.",
+        "price": 330000,
+        "category": "Finance",
+        "stock": 28,
+        "created_at": "2024-01-22T06:00:00Z",
+        "updated_at": "2024-01-22T06:00:00Z"
+    }
+]

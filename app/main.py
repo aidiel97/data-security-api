@@ -3,6 +3,7 @@ from app.database.connection import connect_to_mongo, close_mongo_connection
 from contextlib import asynccontextmanager
 from app.routers import test
 from app.routers import products
+from app.routers import books
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -21,6 +22,7 @@ app = FastAPI(
 
 app.include_router(test.router)
 app.include_router(products.router)
+app.include_router(books.router)
 
 @app.get("/")
 async def root():
