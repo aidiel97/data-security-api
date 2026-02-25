@@ -1,5 +1,5 @@
 from fastapi import APIRouter, HTTPException, status, Query
-from app.schemas.book import BookCreate, BookUpdate, BookResponse
+from app.schemas.book import BookCreate, BookResponse
 from app.database.connection import get_database
 from bson import ObjectId
 from typing import List, Optional
@@ -35,13 +35,24 @@ async def create_book(book: BookCreate):
     
     return BookResponse(**book_helper(created_book))
 
-# READ - Get all products with optional filters
+# READ - Get all books with optional filters
 @router.get("/", response_model=List[BookResponse])
-async def get_products():
+async def get_books():
     db = await get_database()
     
     # Execute query with pagination
-    cursor = db.products.find().sort("created_at", -1)
-    products = await cursor.to_list()
+    cursor = db.books.find().sort("created_at", -1)
+    books = await cursor.to_list()
     
-    return [BookResponse(**product_helper(product)) for product in products]
+    return [BookResponse(**book_helper(book)) for book in books]
+
+# READ - Get all books object but only return name
+@router.get("/name/")
+async def get_books():
+    db = await get_database()
+    
+    # Execute query with pagination
+    cursor = db.books.find({}, {"name": 1}).sort("created_at", -1)
+    books = await cursor.to_list()
+    
+    return [{"name": book["name"]} for book in books]
