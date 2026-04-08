@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "username": "budi_santoso",
+    "email": "budi.s@example.com",
+    "password": "gAAAAABp1hv73bzX-VnDh5z2CgH7-6-S210dJmG_demXQIPHOTbwAosblCppC9fRjz7SLJKQjReBKRTacMdn3hXwRRSR5U3ENg==",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "siti_aminah",
+    "email": "siti.a@example.com",
+    "password": "gAAAAABp1hv73bzX-VnDh5z2CgH7-6-S210dJmG_demXQIPHOTbwAosblCppC9fRjz7SLJKQjReBKRTacMdn3hXwRRSR5U3ENg==",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "username": "andi_wijaya",
+    "email": "andi.w@example.com",
+    "password": "gAAAAABp1hv73bzX-VnDh5z2CgH7-6-S210dJmG_demXQIPHOTbwAosblCppC9fRjz7SLJKQjReBKRTacMdn3hXwRRSR5U3ENg==",
+    "role": "user"
+  },
+  {
+    "id": 4,
+    "username": "dewi_lestari",
+    "email": "dewi.l@example.com",
+    "password": "gAAAAABp1hv73bzX-VnDh5z2CgH7-6-S210dJmG_demXQIPHOTbwAosblCppC9fRjz7SLJKQjReBKRTacMdn3hXwRRSR5U3ENg==",
+    "role": "editor"
+  },
+  {
+    "id": 5,
+    "username": "eko_prasetyo",
+    "email": "eko.p@example.com",
+    "password": "gAAAAABp1hv73bzX-VnDh5z2CgH7-6-S210dJmG_demXQIPHOTbwAosblCppC9fRjz7SLJKQjReBKRTacMdn3hXwRRSR5U3ENg==",
+    "role": "user"
+  },
+  {
+    "id": 6,
+    "username": "rina_sari",
+    "email": "rina.s@example.com",
+    "password": "gAAAAABp1hv73bzX-VnDh5z2CgH7-6-S210dJmG_demXQIPHOTbwAosblCppC9fRjz7SLJKQjReBKRTacMdn3hXwRRSR5U3ENg==",
+    "role": "user"
+  },
+  {
+    "id": 7,
+    "username": "fajar_hidayat",
+    "email": "fajar.h@example.com",
+    "password": "gAAAAABp1hv73bzX-VnDh5z2CgH7-6-S210dJmG_demXQIPHOTbwAosblCppC9fRjz7SLJKQjReBKRTacMdn3hXwRRSR5U3ENg==",
+    "role": "manager"
+  },
+  {
+    "id": 8,
+    "username": "maya_putri",
+    "email": "maya.p@example.com",
+    "password": "gAAAAABp1hv73bzX-VnDh5z2CgH7-6-S210dJmG_demXQIPHOTbwAosblCppC9fRjz7SLJKQjReBKRTacMdn3hXwRRSR5U3ENg==",
+    "role": "user"
+  },
+  {
+    "id": 9,
+    "username": "rizky_ramadhan",
+    "email": "rizky.r@example.com",
+    "password": "gAAAAABp1hv73bzX-VnDh5z2CgH7-6-S210dJmG_demXQIPHOTbwAosblCppC9fRjz7SLJKQjReBKRTacMdn3hXwRRSR5U3ENg==",
+    "role": "user"
+  },
+  {
+    "id": 10,
+    "username": "nina_kurnia",
+    "email": "nina.k@example.com",
+    "password": "gAAAAABp1hv73bzX-VnDh5z2CgH7-6-S210dJmG_demXQIPHOTbwAosblCppC9fRjz7SLJKQjReBKRTacMdn3hXwRRSR5U3ENg==",
+    "role": "user"
+  }
+]

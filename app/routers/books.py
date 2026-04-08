@@ -52,7 +52,7 @@ async def get_books():
     db = await get_database()
     
     # Execute query with pagination
-    cursor = db.books.find({}, {"name": 1}).sort("created_at", -1)
+    cursor = db.books.find({}, {"name": 1}).sort("created_at", -1).limit(2)
     books = await cursor.to_list()
-    
+
     return [{"name": book["name"]} for book in books]
