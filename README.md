@@ -24,12 +24,14 @@ Langkah ini penting agar pustaka (library) aplikasi ini tersimpan rapi dalam sat
     python -m venv venv
     ```
 * **Aktifkan folder tersebut:**
-    * **Windows:** ```powershell
-        .\venv\Scripts\activate
-        ```
-    * **Linux/Mac:** ```bash
-        source venv/bin/activate
-        ```
+    * **Windows:** 
+    ```bash
+    .\venv\Scripts\activate
+    ```
+    * **Linux/Mac:** 
+    ```bash
+    source venv/bin/activate
+    ```
 
 > **Ciri Berhasil:** Jika berhasil, akan muncul tanda `(venv)` di bagian depan baris perintah terminal Anda.
 
