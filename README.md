@@ -1,6 +1,3 @@
-Tentu, silakan salin teks di bawah ini dan simpan sebagai file dengan ekstensi `.md` (misalnya: `README.md`).
-
-```markdown
 # 🚀 Data Security API (Python & MongoDB)
 
 Selamat datang! Repositori ini berisi sistem API untuk keamanan data yang dibangun menggunakan **FastAPI** dan **MongoDB**. Panduan ini dibuat untuk membantu Anda menyiapkan lingkungan kerja (*environment*) agar aplikasi bisa berjalan di komputer masing-masing.
