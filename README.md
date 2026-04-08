@@ -25,13 +25,13 @@ Langkah ini penting agar pustaka (library) aplikasi ini tersimpan rapi dalam sat
     ```
 * **Aktifkan folder tersebut:**
     * **Windows:** 
-    ```powershell
-        .\venv\Scripts\activate
-        ```
+    ```bash
+    .\venv\Scripts\activate
+    ```
     * **Linux/Mac:** 
     ```bash
-        source venv/bin/activate
-        ```
+    source venv/bin/activate
+    ```
 
 > **Ciri Berhasil:** Jika berhasil, akan muncul tanda `(venv)` di bagian depan baris perintah terminal Anda.
 
